@@ -1,1 +1,0 @@
-# thigabiga.github.io
