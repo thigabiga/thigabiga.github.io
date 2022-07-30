@@ -45,6 +45,13 @@ p {
     text-transform: uppercase;
 }
 
+.aside {
+    font-family: 'Raleway', sans-serif;
+    font-size: 8pt;
+    font-weight: 600;
+    color: #7C9082;
+}
+
 .card {
     border: 0px;
 }
@@ -61,6 +68,10 @@ p {
     padding-right: 2em;
     margin-left: 3em; 
     margin-right: 3em; 
+}
+
+.card-img-hover {
+    border-radius: 0;
 }
 
 .card-img-hover:hover {
@@ -96,4 +107,17 @@ img.profile {
 
 .modal-header {
     border: 0px;
+}
+
+.modal-content {
+    border-radius: 0;
+}
+
+button.close {
+    background-color: white;
+    border: none;
+}
+
+.divider {
+    border: .5px solid #7C9082;
 }
